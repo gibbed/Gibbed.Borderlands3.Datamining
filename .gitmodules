@@ -1,0 +1,14 @@
+[submodule "projects/Unreflect"]
+	path = projects/Unreflect
+	url = https://github.com/gibbed/Gibbed.Unreflect.git
+[submodule "projects/Gibbed.IO"]
+	path = projects/Gibbed.IO
+	url = https://github.com/gibbed/Gibbed.IO.git
+	branch = vs2017
+[submodule "projects/NDesk.Options"]
+	path = projects/NDesk.Options
+	url = https://github.com/gibbed/NDesk.Options.git
+	branch = vs2017
+[submodule "bin/dumps"]
+	path = bin/dumps
+	url = https://github.com/gibbed/Borderlands3Dumps.git
